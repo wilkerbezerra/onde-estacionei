@@ -1,7 +1,7 @@
 {
   "expo": {
-    "name": "app-teste2",
-    "slug": "app-teste2",
+    "name": "Onde Estacionei",
+    "slug": "onde-estacionei",
     "version": "1.0.0",
     "orientation": "portrait",
     "icon": "./assets/icon.png",
@@ -15,15 +15,24 @@
       "supportsTablet": true
     },
     "android": {
+      "permissions": ["ACCESS_FINE_LOCATION"],
       "adaptiveIcon": {
         "backgroundColor": "#E6F4FE",
         "foregroundImage": "./assets/android-icon-foreground.png",
         "backgroundImage": "./assets/android-icon-background.png",
         "monochromeImage": "./assets/android-icon-monochrome.png"
-      }
+      },
+      "package": "com.wilker.bezerra.ondeestacionei"
     },
+
     "web": {
       "favicon": "./assets/favicon.png"
-    }
+    },
+    "extra": {
+      "eas": {
+        "projectId": "ff68bf95-d246-43a9-b5e3-94c9f693883f"
+      }
+    },
+    "owner": "wilker.bezerra"
   }
 }
