@@ -64,9 +64,14 @@ Disciplina: N700 – Desenvolvimento de Plataformas Móveis
 
 ## Demonstração
 
-![Tela inicial](./assets/home.jpg)
-![Salvar localização](./assets/salvar_localizacao.jpg)
-![Localização salva](./assets/localizacao_salva.jpg)
-![Iniciar rastreamento](./assets/iniciar_rastreamento.jpg)
-![Rastreamento em andamento](./assets/rastreamento_em_andamento.jpg)
-![Ícone do App](./assets/icone_app.jpg)
+<p align="center">
+  <img src="./assets/home.jpg" width="220"/>
+  <img src="./assets/salvar_localizacao.jpg" width="220"/>
+  <img src="./assets/localizacao_salva.jpg" width="220"/>
+</p>
+
+<p align="center">
+  <img src="./assets/iniciar_rastreamento.jpg" width="220"/>
+  <img src="./assets/rastreamento_em_andamento.jpg" width="220"/>
+  <img src="./assets/icone_app.jpg" width="220"/>
+</p>
