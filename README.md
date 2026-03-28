@@ -21,11 +21,13 @@ AsyncStorage
 
 ## Estrutura do Projeto
 
-components/ → Componentes reutilizáveis (Botão, Card, etc)
+```bash
+components/ → Componentes reutilizáveis (Botão, Card)
 screens/ → Telas do app
 hooks/ → Lógica separada (custom hooks)
 services/ → Acesso a localização e armazenamento
 utils/ → Funções auxiliares (ex: cálculo de distância)
+```
 
 ## Como executar o projeto
 
