@@ -4,20 +4,24 @@ Aplicativo mobile desenvolvido com React Native (Expo) com o objetivo de ajudar 
 
 ## Funcionalidades
 
+```
 Salvar localização atual do veículo
 Adicionar descrição (ex: piso ou setor)
 Rastrear a posição atual do usuário
 Calcular distância até o veículo
 Remover localização salva
+```
 
 ## Tecnologias utilizadas
 
+```
 React Native (Expo)
 JavaScript
 React Navigation
 React Native Paper
 Expo Location
 AsyncStorage
+```
 
 ## Estrutura do Projeto
 
@@ -60,9 +64,11 @@ Este projeto foi desenvolvido como parte de um trabalho acadêmico com o objetiv
 
 A proposta é simular uma solução simples para um problema do dia a dia: lembrar onde o veículo foi estacionado, permitindo salvar a localização e posteriormente calcular a distância até ela.
 
+```
 Instituição: UNIFOR – Universidade de Fortaleza
 Curso: Análise e Desenvolvimento de Sistemas
 Disciplina: N700 – Desenvolvimento de Plataformas Móveis
+```
 
 ## Demonstração
 
