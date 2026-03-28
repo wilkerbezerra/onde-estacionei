@@ -4,28 +4,28 @@ Aplicativo mobile desenvolvido com React Native (Expo) com o objetivo de ajudar 
 
 ## Funcionalidades
 
-- Salvar localização atual do veículo
-- Adicionar descrição (ex: piso ou setor)
-- Rastrear a posição atual do usuário
-- Calcular distância até o veículo
-- Remover localização salva
+Salvar localização atual do veículo  
+Adicionar descrição (ex: piso ou setor)  
+Rastrear a posição atual do usuário  
+Calcular distância até o veículo  
+Remover localização salva
 
 ## Tecnologias utilizadas
 
-- React Native (Expo)
-- JavaScript
-- React Navigation
-- React Native Paper
-- Expo Location
-- AsyncStorage
+React Native (Expo)  
+JavaScript  
+React Navigation  
+React Native Paper  
+Expo Location  
+AsyncStorage
 
 ## Estrutura do Projeto
 
-- components/ → Componentes reutilizáveis (Botão, Card)
-- screens/ → Telas do app
-- hooks/ → Lógica separada (custom hooks)
-- services/ → Acesso a localização e armazenamento
-- utils/ → Funções auxiliares (ex: cálculo de distância)
+components/ → Componentes reutilizáveis (Botão, Card)  
+screens/ → Telas do app  
+hooks/ → Lógica separada (custom hooks)  
+services/ → Acesso a localização e armazenamento  
+utils/ → Funções auxiliares (ex: cálculo de distância)
 
 ## Como executar o projeto
 
