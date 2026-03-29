@@ -60,7 +60,8 @@ A proposta é simular uma solução simples para um problema do dia a dia: lembr
 
 Instituição: UNIFOR – Universidade de Fortaleza  
 Curso: Análise e Desenvolvimento de Sistemas  
-Disciplina: N700 – Desenvolvimento de Plataformas Móveis
+Disciplina: N700 – Desenvolvimento de Plataformas Móveis  
+Grupo: 21
 
 ## Demonstração
 
