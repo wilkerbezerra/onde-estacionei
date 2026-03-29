@@ -58,7 +58,7 @@ Este projeto foi desenvolvido como parte de um trabalho acadêmico com o objetiv
 
 A proposta é simular uma solução simples para um problema do dia a dia: lembrar onde o veículo foi estacionado, permitindo salvar a localização e posteriormente calcular a distância até ela.
 
-Instituição: Universidade de Fortaleza -UNIFOR  
+Instituição: Universidade de Fortaleza - UNIFOR  
 Curso: Análise e Desenvolvimento de Sistemas  
 Disciplina: N700 – Desenvolvimento de Plataformas Móveis  
 Grupo: 21
